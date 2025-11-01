@@ -4,6 +4,14 @@ A Max for Live device that simplifies exporting multiple audio clips from Ableto
 
 ![EZY_Title](https://github.com/user-attachments/assets/fa581fe6-255d-40e4-b7c5-7902958706d7)
 
+## Demo
+
+### Manual Naming Mode
+![Manual Mode](demo-manual.gif.gif)
+
+### Automatic Naming Mode
+![Auto Mode](demo-auto.gif.gif)
+
 
 ## Features
 
