@@ -30,10 +30,10 @@ A Max for Live device that simplifies exporting multiple audio clips from Ableto
 ## Demo
 
 ### Manual Naming Mode
-![Manual Mode](Manual.gif)
+![Manual Mode](demo-manual.gif)
 
 ### Automatic Naming Mode  
-![Auto Mode](Auto.gif)
+![Auto Mode](demo-auto.gif)
 
 
 ## Requirements
