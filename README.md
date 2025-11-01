@@ -2,7 +2,8 @@
 
 A Max for Live device that simplifies exporting multiple audio clips from Ableton Live into individual audio files with intelligent naming and flexible formatting options.
 
-![EZY_Title](https://github.com/user-attachments/assets/fa581fe6-255d-40e4-b7c5-7902958706d7)
+![ezy-titleDef](https://github.com/user-attachments/assets/3c273c5e-3e94-4aa4-beb7-1553d063d2c1)
+
 
 *Simple, fast, and flexible batch audio export for Ableton Live*
 
