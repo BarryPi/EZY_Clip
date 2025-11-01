@@ -115,7 +115,13 @@ If you encounter any issues or have feature requests, please [open an issue](../
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License** (CC BY-NC 4.0).
+
+You are free to use, modify, and share this device for **non-commercial purposes only**.
+
+For commercial use, please contact me.
+
+See the [LICENSE](LICENSE) file for details.
 
 ## Credits
 
