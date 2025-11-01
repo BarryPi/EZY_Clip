@@ -1,4 +1,7 @@
 # EZY_Clip - Batch Export Clips to Audio Files
+![Max for Live](https://img.shields.io/badge/Max%20for%20Live-8-orange)
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-11%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 A Max for Live device that simplifies exporting multiple audio clips from Ableton Live into individual audio files with intelligent naming and flexible formatting options.
 
@@ -27,10 +30,10 @@ A Max for Live device that simplifies exporting multiple audio clips from Ableto
 ## Demo
 
 ### Manual Naming Mode
-![Manual Mode](demo-manual.gif.gif)
+
 
 ### Automatic Naming Mode
-![Auto Mode](demo-auto.gif.gif)
+
 
 
 ## Requirements
